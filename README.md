@@ -27,5 +27,8 @@ value. So each number will occur in a cycle with user-defined times.
 
 # Changelog
 
+1.0.0.1:
+- Changed key assignments
+
 1.0.0.0:
 - Initial release
