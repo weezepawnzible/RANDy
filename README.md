@@ -6,8 +6,7 @@ RGWLR - Random Generator With Limited Randomness
 RANDy RGWLR ("Random Generator With Limited Randomness") is a batch file script which 
 generates random numeric integer values within a certain definable range and limits the 
 occurrence of each value to a specific number.It is also possible to give every single 
-value its own title if necessary. This way it could be used as e.g. a "digital dice" or 
-a randomizer for a game of "Truth or Dare" so every player's turns are limited.
+value its own title if necessary.
 
 It works in "cycles" which means e.g. if a number has reached its limit it will not 
 return before the "round" has ended. A cycle is defined by the sum of each value's 
