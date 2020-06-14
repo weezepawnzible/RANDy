@@ -1,6 +1,6 @@
 @echo off
 setlocal EnableDelayedExpansion
-title RANDy RGWMR 1.0.0.1
+title RANDy RGWLR 1.0.0.1
 REM "Title Screen"
 cls
 echo.
