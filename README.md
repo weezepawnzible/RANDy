@@ -1,6 +1,3 @@
-# RANDy
-RGWLR - Random Generator With Limited Randomness
-
 # Introduction
 
 RANDy RGWLR ("Random Generator With Limited Randomness") is a batch file script which 
