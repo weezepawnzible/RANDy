@@ -19,7 +19,7 @@ Since it's a .bat file it can't be run on any other operating system than Micros
 
 # Versions
 
-The "standart" version has a pre-defined repetition limit of 2 per value. So each number
+The "standard" version has a pre-defined repetition limit of 2 per value. So each number
 will only occur in a cyclce twice.
 
 The "expert" version has a feature to manually set the repetition limit to an arbitrary
