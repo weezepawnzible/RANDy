@@ -27,6 +27,11 @@ value. So each number will occur in a cycle with user-defined times.
 
 # Changelog
 
+1.0.1.0:
+- added Language support
+  - English (of course)
+  - German
+
 1.0.0.1:
 - Changed key assignments
 
