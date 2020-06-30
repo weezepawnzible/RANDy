@@ -24,6 +24,14 @@ value. So each number will occur in a cycle with user-defined times.
 
 # Changelog
 
+1.1.0.0:
+- added "user-defined number range" feature (but actually limited to 2-9)
+- added "choose mode" feature to choose between standard and expert in one instance.
+  - removed the extra "Expert".bat
+- added error codes
+- redesigned language files
+  - added "error code" lines
+
 1.0.1.0:
 - added Language support
   - English (of course)
